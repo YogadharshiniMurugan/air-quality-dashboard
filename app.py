@@ -172,8 +172,6 @@ with st.sidebar:
         "Select cities", CITIES, default=CITIES,
     )
     year_filter = st.selectbox("Year", ["All","2022","2023"])
-    st.divider()
-    st.markdown("<p style='color:#8B8FA8;font-size:0.75rem'>Built by Yogadharshini M<br>B.Tech AI & Data Science<br>V.S.B College of Engineering</p>", unsafe_allow_html=True)
 
 # ── Load & filter ─────────────────────────────────────────────────────
 df_all = load_data()
