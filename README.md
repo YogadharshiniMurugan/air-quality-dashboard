@@ -26,7 +26,5 @@ streamlit run app.py
 2. Go to share.streamlit.io → New app
 3. Select repo → select `app.py` → Deploy
 
-## 📄 Resume bullet
-> "Built an interactive AQI Trend Dashboard in Streamlit analysing 2-year CPCB-format data for 5 Indian cities — Pandas EDA, IQR spike detection, Seaborn heatmaps, and multi-tab Matplotlib visualisations deployed on Streamlit Cloud."
 
-**Author:** Yogadharshini M · B.Tech AI & Data Science · V.S.B College of Engineering
+**Author:** Yogadharshini M 
